@@ -80,4 +80,4 @@ With our app, you can easily convert your existing website to a native android a
 [![WordPress to Android app Demo](https://i.imgur.com/4RkO8Ci.png)  
 ](http://www.mediafire.com/file/5g9uw5z89u5wf93/Wpnews_1.1.0_demo.apk/file)
 [![buy](https://i.imgur.com/DIX0YKm.png)  
-](https://codecanyon.net/item/wpnews-wordpress-to-app-android/27366420)
+](https://codecanyon.net/item/offline-music-app-android/28562299)
