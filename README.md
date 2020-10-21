@@ -21,10 +21,10 @@ Version 1.1.2 updated 10 october 2020
 
 Version 1.1.1 Updated 27 August 2020
 
-1.Fix issue where app failed to build with flutter V 1.20.2
-2.small change on the app webview to display external urls
-3.improve performance
-
+1. Fix issue where app failed to build with flutter V 1.20.2
+2. small change on the app webview to display external urls
+3. improve performance
+ 
 Version 1.1.0 Updated 28 July 2020
 
 1. Integrate Admob ads (Native Ads)
