@@ -3,17 +3,21 @@
   
 Version 1.1.2 updated 10 october 2020
 
-1.update to flutter 1.22.0 (make sure to use this Version for the build)
-2.add support for android 11
-3.fix bug where some posts not showing due to not receiving post image
-4.add support to iframes render (thanks to one of our buyers for the suggestion)
-5.fix text overflow on posts title
-6.add option to enable/disable ads from showing
-7.add support for RTL in post titles and articles
-8.add option to open social URLs in the default apps
-9.improve performance and some other bugs fixes 
-10.update the default-config to support new changes
-11.change the way of applying app icon and splash sceen (Documentation updated)
+1. update to flutter 1.22.0 (make sure to use this Version for 
+   the build)
+2. add support for android 11
+3. fix bug where some posts not showing due to not receiving          
+   post image
+4. add support to iframes render (thanks to one of our buyers  
+   for the suggestion)
+5. fix text overflow on posts title
+6. add option to enable/disable ads from showing
+7. add support for RTL in post titles and articles
+8. add option to open social URLs in the default apps
+9. improve performance and some other bugs fixes 
+10. update the default-config to support new changes
+11. change the way of applying app icon and splash screen 
+    (Documentation updated)
 
 Version 1.1.1 Updated 27 August 2020
 
